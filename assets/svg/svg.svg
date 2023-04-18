@@ -1,0 +1,16 @@
+   <svg width="1904" height="517">
+    <defs>
+     <linearGradient id="Gradient1" x1="0" x2=".3" y1="0" y2="0">
+       <stop offset="0%" stop-color="rgba(217, 217, 217, 0)"/>
+       <stop offset="100%" stop-color="rgba(217, 217, 217, 0.44)"/>
+     </linearGradient>
+    </defs>
+       
+    <polyline 
+     points=
+      "0,0
+       0,517 
+       668.5,433 
+       884.5,0"
+     fill="url(#Gradient1)"/>
+             </svg>
